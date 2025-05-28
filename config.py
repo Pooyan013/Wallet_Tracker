@@ -1,0 +1,3 @@
+TELEGRAM_TOKEN = "7926283155:AAHdu1cVzohDR8kMezrxZkeltrMZ3EYaWgE"
+ADMIN_ID = [101108999, 1960737029]
+HELIUS_KEY = "https://mainnet.helius-rpc.com/?api-key=114a3010-4c9f-4db1-84f2-b9e21539627e"
